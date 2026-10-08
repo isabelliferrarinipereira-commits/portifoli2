@@ -1,0 +1,30 @@
+body{
+   background-image: url("https://i.pinimg.com/736x/1f/06/1c/1f061c6b2b271ab3ad9b11e6fb87d25d.jpg");
+} 
+ 
+ 
+ 
+ a p{
+    background-color: rgb(238, 75, 189);
+    width: 20%;
+    padding: 15px 0;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    border-style: groove;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+    margin: 15px auto;
+ }
+
+ a p:hover{
+    background-color:rgb(77, 169, 245);
+    transform: scale(1.2);
+
+ }
+
+ h1{
+   background-color: rgb(248, 9, 196);
+   text-align: center;
+ }

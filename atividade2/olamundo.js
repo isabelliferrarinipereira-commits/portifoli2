@@ -1,3 +1,3 @@
 function botaokawaiiii(){
-    alert(" AIIII!!!! você me bateu! (,,>﹏<,,) ");
+    alert(" AIIII!!!! jimim você me bateu! (,,>﹏<,,) ");
 }
