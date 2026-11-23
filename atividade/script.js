@@ -1,1 +1,1 @@
-alert("ola mundo!")
+alert("ola mundo cheio de seres insignificantes")
